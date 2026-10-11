@@ -1,4 +1,4 @@
-# protótipo-3D
+# prototipo-3D
 
 ## Sobre
 
